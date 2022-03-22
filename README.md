@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhv3y8&theme=material-palenight&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhv3y8&langs_count=88&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vhv3y8)](https://solved.ac/vhv3y8/)
 
 <!--
