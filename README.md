@@ -1,4 +1,6 @@
-👋 I'm a developer interested in building lightweight but useful apps/pages with good user experience.
+👋 I'm a developer who builds lightweight but useful apps with good user experience.
+
+> 💡 I'm interested in workflow/tool/app ideas at all platforms that needs great user experience. Feel free to give ideas 💡
 
 > [vhv3y8.github.io](https://vhv3y8.github.io/)
 
