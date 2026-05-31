@@ -1,6 +1,6 @@
 👋 I'm a developer who builds lightweight but useful apps with good user experience.
 
-> 💡 I'm interested in workflow/tool/app ideas for any platform that needs great user experience. Feel free to give ideas : vhv3y8@gmail.com 💡
+> Contact: vhv3y8@gmail.com
 
 ### Chrome Extensions
 
